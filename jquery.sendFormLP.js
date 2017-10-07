@@ -3,7 +3,7 @@
   	jQuery.fn.sendFormLP = function(options){
 
   		options = $.extend({
-            toEmail: 'zerakul87@mail.ru',
+            toEmail: 'mickeljilenko@gmail.com',
             fromEmail: 'info@sergeibelousov.ru',
             interval : 5000
         }, options);
